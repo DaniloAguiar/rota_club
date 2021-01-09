@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:rota_clube/main.dart';
+import 'file:///C:/Users/Danilo%20Aguiar/Documents/Projetos/rota_club/lib/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
